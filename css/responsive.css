@@ -279,10 +279,12 @@
   #portfolio .portfolio-list .nav li {
     float: none;
     margin: 20px;
+   
   }
   /* projects */
   #projects .projects-block .projects-info {
     margin-bottom: 30px;
+
   }
   /* Contact */
   .contact-contact {
